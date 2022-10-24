@@ -1,2 +1,3 @@
 # Front-end-Mentor-Challenges
-Front-end Mentor #1 Challenge
+#1 Front-end Mentor #1 Challenge: QR-Code-Component
+#2
